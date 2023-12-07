@@ -14,7 +14,7 @@ My Github page is http://github.com/GonzalesxFernando
 
 * Lab 7
 
-    In Lab 7, Part 2, I was tasked to output various parking times for a number of neighborhood streets. I made use of incorporating bool statements, strings, and arguments to verify street opening times. I thoroughly enjoyed the challenge and practically of the program.
+    In Lab 7, Part 2, I was tasked to output various parking times for a number of neighborhood streets. I made use of incorporating bool statements, strings, and arguments to verify street parking times. I thoroughly enjoyed the challenge and practically of the program.
 
 * Lab 11
 
