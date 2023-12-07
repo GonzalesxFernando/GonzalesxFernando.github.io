@@ -6,7 +6,7 @@ This my home page! My name is Fernando Gonzales and I am student at [Cal State F
 
 My Github page is http://github.com/GonzalesxFernando
 
-## My Favortie CPSC 120 LABS
+## My Favortie CPSC 120 LAB'S
 
 * Lab 9
 
